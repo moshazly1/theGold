@@ -629,6 +629,7 @@ width: 1000px;
 }
 .popup-box img {
   max-width: 100%;
+  width: 300px ;
 }
 .close-button {
   position: absolute;
